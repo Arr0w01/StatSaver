@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357932298928",
+    "project_id": "statsaver-a23f7",
+    "storage_bucket": "statsaver-a23f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357932298928:android:61147577b3f3097e3f4175",
+        "android_client_info": {
+          "package_name": "com.example.arrowstatsaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357932298928-7380gg6be3bnl3i01rm6l1gluu7ppe54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqngRl6suO4DoLMhyKRvcYjGlfYUFCdWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357932298928-7380gg6be3bnl3i01rm6l1gluu7ppe54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
